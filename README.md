@@ -7,8 +7,14 @@ A language by Jessica Emberly.
 * Python
 
 ## Usage
-```git clone https://github.com/JessicaEmberlyOfficial/Shards```
+```
+git clone https://github.com/JessicaEmberlyOfficial/Shards
+```
 
-```cd Shards```
+```
+cd Shards
+```
 
-```python run.py```
+```
+python run.py
+```
